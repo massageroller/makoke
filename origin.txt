@@ -1,0 +1,88 @@
+Uri: https://www.semana.es/famoso/makoke/
+File Name: c:\Downloaded Web Sites\www.semana.es\famoso\makoke\index.htm
+Content Type: text/html
+
+Uri: https://www.semana.es/famoso/makoke/?amp
+File Name: c:\Downloaded Web Sites\www.semana.es\famoso\makoke\index-1.htm
+Content Type: text/html
+
+Uri: https://www.semana.es/famoso/makoke/page/2/
+File Name: c:\Downloaded Web Sites\www.semana.es\famoso\makoke\page\2\index.htm
+Content Type: text/html
+
+Uri: https://www.semana.es/famoso/makoke/page/11/
+File Name: c:\Downloaded Web Sites\www.semana.es\famoso\makoke\page\11\index.htm
+Content Type: text/html
+
+Uri: https://www.semana.es/famoso/makoke/page/2/?amp
+File Name: c:\Downloaded Web Sites\www.semana.es\famoso\makoke\page\2\index-1.htm
+Content Type: text/html
+
+Uri: https://www.semana.es/famoso/makoke/page/11/?amp
+File Name: c:\Downloaded Web Sites\www.semana.es\famoso\makoke\page\11\index-1.htm
+Content Type: text/html
+
+Uri: https://www.semana.es/famoso/makoke/page/3/
+File Name: c:\Downloaded Web Sites\www.semana.es\famoso\makoke\page\3\index.htm
+Content Type: text/html
+
+Uri: https://www.semana.es/famoso/makoke/page/10/
+File Name: c:\Downloaded Web Sites\www.semana.es\famoso\makoke\page\10\index.htm
+Content Type: text/html
+
+Uri: https://www.semana.es/famoso/makoke/page/3/?amp
+File Name: c:\Downloaded Web Sites\www.semana.es\famoso\makoke\page\3\index-1.htm
+Content Type: text/html
+
+Uri: https://www.semana.es/famoso/makoke/page/10/?amp
+File Name: c:\Downloaded Web Sites\www.semana.es\famoso\makoke\page\10\index-1.htm
+Content Type: text/html
+
+Uri: https://www.semana.es/famoso/makoke/page/4/
+File Name: c:\Downloaded Web Sites\www.semana.es\famoso\makoke\page\4\index.htm
+Content Type: text/html
+
+Uri: https://www.semana.es/famoso/makoke/page/9/
+File Name: c:\Downloaded Web Sites\www.semana.es\famoso\makoke\page\9\index.htm
+Content Type: text/html
+
+Uri: https://www.semana.es/famoso/makoke/page/4/?amp
+File Name: c:\Downloaded Web Sites\www.semana.es\famoso\makoke\page\4\index-1.htm
+Content Type: text/html
+
+Uri: https://www.semana.es/famoso/makoke/page/9/?amp
+File Name: c:\Downloaded Web Sites\www.semana.es\famoso\makoke\page\9\index-1.htm
+Content Type: text/html
+
+Uri: https://www.semana.es/famoso/makoke/page/5/
+File Name: c:\Downloaded Web Sites\www.semana.es\famoso\makoke\page\5\index.htm
+Content Type: text/html
+
+Uri: https://www.semana.es/famoso/makoke/page/8/
+File Name: c:\Downloaded Web Sites\www.semana.es\famoso\makoke\page\8\index.htm
+Content Type: text/html
+
+Uri: https://www.semana.es/famoso/makoke/page/5/?amp
+File Name: c:\Downloaded Web Sites\www.semana.es\famoso\makoke\page\5\index-1.htm
+Content Type: text/html
+
+Uri: https://www.semana.es/famoso/makoke/page/8/?amp
+File Name: c:\Downloaded Web Sites\www.semana.es\famoso\makoke\page\8\index-1.htm
+Content Type: text/html
+
+Uri: https://www.semana.es/famoso/makoke/page/6/
+File Name: c:\Downloaded Web Sites\www.semana.es\famoso\makoke\page\6\index.htm
+Content Type: text/html
+
+Uri: https://www.semana.es/famoso/makoke/page/7/
+File Name: c:\Downloaded Web Sites\www.semana.es\famoso\makoke\page\7\index.htm
+Content Type: text/html
+
+Uri: https://www.semana.es/famoso/makoke/page/6/?amp
+File Name: c:\Downloaded Web Sites\www.semana.es\famoso\makoke\page\6\index-1.htm
+Content Type: text/html
+
+Uri: https://www.semana.es/famoso/makoke/page/7/?amp
+File Name: c:\Downloaded Web Sites\www.semana.es\famoso\makoke\page\7\index-1.htm
+Content Type: text/html
+
